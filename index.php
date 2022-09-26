@@ -7,6 +7,8 @@
    <p>Nome do Funcionário: <input type="text" name="nomefun"></p>
    <p>Emprego: <input type="text" name="empreg"></p>
    <p>Salário: <input type="number" name="salar"></p> 
-   <p>Qtd Dependentes: <input type="text" name="depend"></p<button type="submit">Cadastrar</button> </form>
+   <p>Qtd Dependentes: <input type="text" name="depend"> </p>
+   <button type="submit"> Cadastrar </button> 
+   </form>
    </body>
    </html>
